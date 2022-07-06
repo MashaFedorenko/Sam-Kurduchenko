@@ -1,0 +1,39 @@
+img {
+	width: 500px;
+	display: block;
+	margin: 0 auto;
+}
+
+html {
+	font-size: 10px; 
+	font-family: Kantumruy Pro;
+}
+
+p, li {
+	font-size: 16px;
+	line-height: 2;
+	letter-spacing: 1px;
+	text-align: justify;
+}
+
+}
+
+html {
+	background-color: #a9d1ad;
+}
+
+body {
+	width: 600px;
+	margin: 0 auto;
+	background-color: #a9d1ad;
+	padding: 5px 20px 20px 20px;
+}
+
+h1 {
+	margin: 0;
+	padding: 20px 0;
+	font-size: 50px;
+	text-align: center;
+	color: #06450c;
+	text-shadow: 3px 3px 0.5px white;
+}
